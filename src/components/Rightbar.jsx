@@ -84,7 +84,7 @@ import {
           <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
         <ListItem alignItems="flex-start">
           <ListItemAvatar>
-            <Avatar alt="Remy Sharp" src="https://material-ui.com/static/images/avatar/3.jpg" />
+            <Avatar alt="Remy Sharp" src="https://images.unsplash.com/photo-1687360440094-949b8fe71c8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80" />
           </ListItemAvatar>
           <ListItemText
             primary="Brunch this weekend?"
